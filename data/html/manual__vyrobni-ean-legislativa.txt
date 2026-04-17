@@ -1,0 +1,28 @@
+Výrobní EAN a legislativa pro majitele fotovoltaiky (od července 2025)
+
+Co je výrobní EAN?
+Výrobní EAN (Evropské identifikační číslo zařízení) je jedinečný identifikátor vašeho výrobního zdroje elektřiny – tedy vaší fotovoltaické elektrárny. Jde o obdobu odběrného EAN, který máte přiřazený k elektroměru pro spotřebu, ale tentokrát se vztahuje k výrobě elektřiny.
+
+Proč ho potřebuji?
+Od července 2025 platí v České republice povinnost, že každý majitel fotovoltaické elektrárny nebo jiného zdroje elektřiny musí mít:
+1. Aktivní výrobní EAN přiřazený k jeho výrobnímu zdroji.
+2. Platnou smlouvu o výkupu elektřiny s distributorem (ČEZ Distribuce, EG.D, PREdistribuce).
+
+Bez výrobního EAN a smlouvy o výkupu nelze legálně dodávat přebytky elektřiny do distribuční sítě.
+
+Jak výrobní EAN získám?
+Výrobní EAN přiděluje váš distributor (ČEZ Distribuce, EG.D nebo PREdistribuce podle regionu). Žádost se podává při připojení elektrárny k síti – standardně to za vás vyřídí instalační firma (jako Acetex) v rámci procesu připojení. Pokud jste elektrárnu instalovali dříve a EAN nemáte, musíte podat žádost o přidělení výrobního EAN u svého distributora.
+
+Kdo je distributor?
+- ČEZ Distribuce: Čechy (mimo Prahu a část středních Čech)
+- EG.D (E.ON Distribuce): Morava a část jižních Čech
+- PREdistribuce: Praha a okolí
+
+Smlouva o výkupu elektřiny
+Smlouva o výkupu elektřiny (také nazývaná smlouva o připojení výrobny) upravuje podmínky, za kterých distributor přijímá přebytky elektřiny z vaší elektrárny. Bez ní nelze přebytky prodávat ani bezplatně dodávat do sítě. Smlouvu uzavíráte přímo s distributorem nebo prostřednictvím obchodníka s elektřinou.
+
+Týká se to i mě, když přebytky neprodávám?
+Ano. Povinnost mít výrobní EAN a smlouvu se vztahuje na všechny výrobny elektřiny připojené k distribuční síti, bez ohledu na to, zda přebytky prodáváte nebo ne.
+
+Pomůže mi s tím Acetex?
+Ano. Acetex v rámci instalace fotovoltaiky standardně zajišťuje veškerou administrativu spojenou s připojením k síti, včetně žádosti o přidělení výrobního EAN a uzavření smlouvy o výkupu elektřiny s distributorem. Pokud máte starší instalaci a potřebujete EAN doplnit, kontaktujte obchodní tým Acetex na tel. 770 110 011 nebo info@acetex.cz.
